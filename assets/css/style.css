@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('/assets/images/background.png') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    position: relative;
+}
+
+.navbar {
+    border-bottom: 3px solid #cccccc;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 0;
+}
+
+.container {
+    max-width: 960px;
+    padding: 0;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 24px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar-nav a {
+    color: #777777;
+}
+
+.link-divider   {
+    padding-left: 12px;
+}
+
+.fas fa-bars{
+    padding: 0;
+}
