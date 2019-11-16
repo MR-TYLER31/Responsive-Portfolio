@@ -44,6 +44,9 @@ body {
     padding: 0;
 }
 
+#about-me {
+    margin-top: 125px;
+}
 
 .jumbotron{
     background-color: #ffffff;
@@ -64,9 +67,6 @@ body {
     border-top: 1.5px solid #dddddd;
   }
   
-  
-
-
 .img-me {
     width: 150px;
     padding-right: 30px;
@@ -80,3 +80,26 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
   }
+
+/* Portfolio Section */
+#portfolio-content {
+    background-color: white;
+    min-height: 950px;
+    max-width: 960px;
+    margin: 125px auto 200px auto;
+    border: #dddddd solid 2px;
+}
+
+#portfolio-container {
+    padding: 50px;
+}
+
+.grid-content {
+    width: 80%;
+    margin-left: 12px;
+  }
+
+.img-content img {
+    width: 300px;
+}
+
