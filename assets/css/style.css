@@ -26,6 +26,7 @@ body {
     padding: 24px;
     font-size: 30px;
     font-weight: bold;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
 .navbar-brand:hover {
@@ -52,6 +53,7 @@ body {
     border: #dddddd solid 2px;
     position: relative;
     padding: 50px;
+    color: #777777;
 }
 
 .content-title {
@@ -89,6 +91,26 @@ body {
     padding: 50px;
 }
 
+.card {
+    border-radius: 0;
+    border: none;
+}
+
+.card-img-overlay {
+    border: none;
+    border-radius: 0;
+}
+
+.card-title {
+    position: absolute;
+    bottom: 25px;
+    left: 0;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
 
 /* Contact Section */
 .btn {
