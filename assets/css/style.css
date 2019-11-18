@@ -15,7 +15,7 @@ body {
     padding: 0;
 }
 
-.container {
+.container{
     max-width: 960px;
     padding: 0;
 }
@@ -44,16 +44,14 @@ body {
     padding: 0;
 }
 
-#about-me {
-    margin-top: 125px;
-}
 
-.jumbotron{
+#about-me{
     background-color: #ffffff;
     width: 960px;
-    margin: 30px auto 60px auto;
+    margin: 125px auto 60px auto;
     border: #dddddd solid 2px;
     position: relative;
+    padding: 50px;
 }
 
 .content-title {
@@ -63,7 +61,7 @@ body {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
   }
  
-  hr {
+  .hr {
     border-top: 1.5px solid #dddddd;
   }
   
@@ -88,18 +86,18 @@ body {
     max-width: 960px;
     margin: 125px auto 200px auto;
     border: #dddddd solid 2px;
-}
-
-#portfolio-container {
     padding: 50px;
 }
 
-.grid-content {
-    width: 80%;
-    margin-left: 12px;
-  }
 
-.img-content img {
-    width: 300px;
+/* Contact Section */
+.btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border-radius: 0;
 }
+
+
+
+
 
