@@ -100,6 +100,9 @@ body {
     border: none;
     border-radius: 0;
 }
+.card-img {
+    min-height: 250px;
+}
 
 .card-title {
     position: absolute;
@@ -110,9 +113,25 @@ body {
     margin: 0;
     padding: 20px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 25px;
 }
 
 /* Contact Section */
+#contact {
+    background-color: #ffffff;
+    width: 960px;
+    height: 100%;
+    margin: 125px auto 300px auto;
+    border: #dddddd solid 2px;
+    position: relative;
+    padding: 50px;
+  }
+
+  form {
+    width: 100% ;
+    margin: 0 auto 15px auto;
+   }
+
 .btn {
     background-color: #4aaaa5;
     color: #ffffff;
@@ -121,5 +140,19 @@ body {
 
 
 
+/* Footer Section */
 
+footer {
+    background-color: #666666;
+    color: white;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer p {
+    margin: 0;
+    padding-top: 40px;
+  }
 
