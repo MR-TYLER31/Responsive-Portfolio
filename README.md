@@ -14,8 +14,6 @@ Text editor of your choosing, internet connection
 
 ### Installing
 
-Say what the step will be
-
 ```
 1. Create a folder directory called 'responsive-portfolio'.
 2. Inside folder, create 3 files (index.html, contact.html, portfolio.html).
