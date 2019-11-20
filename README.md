@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-This is my personal portfolio using bootstrap
+This is my personal portfolio which will showcase who I am as well as projects I have built. There is a contact form where you can reach out to me. This portfolio was created with Bootstrap for responsive design.
 
 ## Getting Started
 
@@ -8,27 +8,23 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 Text editor of your choosing, internet connection
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
 Say what the step will be
 
 ```
-Give the example
-```
+1. Create a folder directory called 'responsive-portfolio'.
+2. Inside folder, create 3 files (index.html, contact.html, portfolio.html).
+3. Inside responsive-portfolio create folder directory called 'assests';
+4. Inside assets folder create two folders called 'css' and 'images'.
+4. Your images folder will be where you will keep all images for the website.
+5. Inside the css folder create a file named style.css. This is the file where you will create your css.
+6. Add README.md file if you would like.
 
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
