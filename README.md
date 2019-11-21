@@ -2,7 +2,7 @@
 
 This is my personal portfolio which will showcase who I am as well as projects I have built. There is a contact form where you can reach out to me. This portfolio was created with Bootstrap for responsive design.
 
-<img class="img-me img-fluid py-2" src="assets/images/me.JPEG" alt="me" style="width: 50px; height: 50px">          
+<img class="img-me img-fluid py-2" src="assets/images/me.JPEG" alt="me" width="100" height="100">          
 
 ## Getting Started
 
@@ -43,16 +43,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
