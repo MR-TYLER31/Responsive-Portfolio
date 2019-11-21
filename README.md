@@ -2,7 +2,7 @@
 
 This is my personal portfolio which will showcase who I am as well as projects I have built. There is a contact form where you can reach out to me. This portfolio was created with Bootstrap for responsive design.
 
-<img class="img-me img-fluid py-2" src="assets/images/me.JPEG" alt="me" style="width: 275px; height: 230px">          
+<img class="img-me img-fluid py-2" src="assets/images/me.JPEG" alt="me" style="width: 50px; height: 50px">          
 
 ## Getting Started
 
