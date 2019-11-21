@@ -1,10 +1,12 @@
-# Responsive Portfolio
+# Tyler's Responsive Portfolio
 
 This is my personal portfolio which will showcase who I am as well as projects I have built. There is a contact form where you can reach out to me. This portfolio was created with Bootstrap for responsive design.
 
+<img class="img-me img-fluid py-2" src="assets/images/me.JPEG" alt="me" style="width: 275px; height: 230px">          
+
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a started with how to build a responsive portfolio.
 
 ### Prerequisites
 
@@ -24,37 +26,12 @@ Text editor of your choosing, internet connection
 6. Add README.md file if you would like.
 
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* HTML
+* CSS
+* Bootstrap framework
 
 ## Contributing
 
