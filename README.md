@@ -35,12 +35,11 @@ Text editor of your choosing, internet connection
 
 ```
 
-### Links to Wesbsite 
+## Links to Wesbsite 
 
-```
 - https://mr-tyler31.github.io/Responsive-Portfolio/
 
-```
+
 
 
 
