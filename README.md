@@ -25,22 +25,21 @@ Text editor of your choosing, internet connection
 5. Inside the css folder create a file named style.css. This is the file where you will create your css.
 6. Add README.md file if you would like.
 
-
+```
 
 ## Built With
-
+```
 * HTML
 * CSS
 * Bootstrap framework
 
-## Contributing
+```
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+### Links to Wesbsite 
 
-## Versioning
+```
+View my portfolio here
+<a href="https://mr-tyler31.github.io/Responsive-Portfolio/">
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
 
 
