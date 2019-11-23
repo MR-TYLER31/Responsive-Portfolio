@@ -42,4 +42,7 @@ Text editor of your choosing, internet connection
 
 
 
+## Resources
+
+- https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
