@@ -38,7 +38,7 @@ Text editor of your choosing, internet connection
 ### Links to Wesbsite 
 
 ```
-![View my portfolio here](https://mr-tyler31.github.io/Responsive-Portfolio/)
+- https://mr-tyler31.github.io/Responsive-Portfolio/
 
 ```
 
