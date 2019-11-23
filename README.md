@@ -39,6 +39,8 @@ Text editor of your choosing, internet connection
 
 ```
 View my portfolio here
+http://github.com - automatic!
+[GitHub](http://github.com)
 <a href="https://mr-tyler31.github.io/Responsive-Portfolio/">
 
 
